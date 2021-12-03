@@ -1,3 +1,7 @@
+package problem
+
+import readInputAsInt
+
 fun day01() {
 
     fun processInputPart1(input: List<Int>): Int {

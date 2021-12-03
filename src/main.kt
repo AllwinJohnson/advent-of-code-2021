@@ -1,4 +1,8 @@
+import problem.day02
+
 fun main(){
-    day01()
+//    problem.day01()
+    day02()
 
 }
+
