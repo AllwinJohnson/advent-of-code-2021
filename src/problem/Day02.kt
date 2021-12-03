@@ -1,5 +1,4 @@
 package problem
-
 import readInput
 import readInputAsInt
 
